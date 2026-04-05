@@ -45,6 +45,16 @@ dataset/
 
 ---
 
+## Dependencies
+
+Install dependencies using:
+
+`pip install -r package_list.txt`
+
+It is recommended to use a virtual environment before installing dependencies.
+
+---
+
 ## Training
 
 Train the model: `python src/project.py`
